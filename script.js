@@ -65,7 +65,6 @@ btnRemoverCurso.addEventListener('click', (evt) => {
 })
 btnAdicionarNovoCursoAntes.addEventListener('click', (evt) => {
   const rs = radioSelecionado()
-
   try {
 
     if(nomeCurso.value!=''){
