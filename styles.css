@@ -39,9 +39,10 @@ button{
 }
 
 .selecionados{
-    background-color: #800!important;
-    color: #f00!important;
-    border-color: #f00 !important;
+    background-color: rgba(44, 183, 109, 0.728)!important;
+font-style: italic !important;
+    color: rgb(11, 11, 11)!important;
+    border-color: rgb(9, 9, 9) !important;
 }
 .c1{
     background-color: rgb(0, 85, 0);
